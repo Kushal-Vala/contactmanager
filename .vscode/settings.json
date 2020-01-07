@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.formatOnType": true
+}
